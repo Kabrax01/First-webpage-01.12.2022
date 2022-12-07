@@ -131,7 +131,9 @@ ul
 nav a 
 {
   color: white;
+  border: 1px solid transparent;
   text-decoration: none;
+  padding: 3px 5px;
 }
 
 nav a:hover
